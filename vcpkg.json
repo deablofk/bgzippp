@@ -1,0 +1,9 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+    "builtin-baseline": "0719a71389654b88d827501d88e37e58ea8cbd70",
+
+    "name": "bgzippp",
+    "dependencies": [
+        {"name": "fmt", "version>=": "10.1.1"}
+    ]
+}

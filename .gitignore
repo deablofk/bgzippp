@@ -2,3 +2,7 @@
 /.vscode/
 /.idea/
 /.python-version
+
+# project dependencies
+/deps/
+/vcpkg_installed/
