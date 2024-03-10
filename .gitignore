@@ -2,7 +2,11 @@
 /.vscode/
 /.idea/
 /.python-version
+/.cache/
 
 # project dependencies
 /deps/
 /vcpkg_installed/
+
+# build artifacts
+/build/
